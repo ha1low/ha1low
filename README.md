@@ -1,3 +1,8 @@
+<blockquote>
+<strong>“The best way to find out if you can trust somebody is to trust them.” <br></strong>
+<strong>― Ernest Hemingway</strong>
+</blockquote>
+
 <p <p align="center">>
 <img src="gif.gif" width="100%">
 </p>
