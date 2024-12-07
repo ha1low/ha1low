@@ -4,6 +4,7 @@ I am Matvei. I specialize in cybersecurity operations, combining offensive and d
 
 Currently studying in Moscow polytechnic university and RSSU college. Participating in various events hosted by top universities of Moscow.
 
+
 ⌍AREAS OF EXPERTISE⌎
 
 ➠ Vulnerability Analysis & Exploitation
@@ -21,6 +22,7 @@ Currently studying in Moscow polytechnic university and RSSU college. Participat
 ➠ Code Development
 
 ⊹ Writing purpose-driven tools in Python, C++, JavaScript, and Bash to solve problems and break limits.
+
 
 ⌍CONNECT⌎
 
