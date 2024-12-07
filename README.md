@@ -1,16 +1,24 @@
-## Hi there 👋
+ABOUT
 
-<!--
-**ha1low/ha1low** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in cybersecurity operations, combining offensive and defensive methodologies to expose weaknesses and engineer resilience. My work focuses on real-world application: if it doesn’t work under pressure, it’s irrelevant.
 
-Here are some ideas to get you started:
+AREAS OF EXPERTISE
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Vulnerability Analysis & Exploitation
+
+- 	Pinpointing security flaws with precision, whether in software, networks, or human systems.
+
+Incident Response & Threat Hunting
+
+- 	Neutralizing active threats and building frameworks to detect and stop them faster.
+
+System Hardening & Defense
+
+- Architecting defenses to withstand modern adversarial techniques.
+
+Code Development
+
+- Writing purpose-driven tools in Python, C++, JavaScript, and Bash to solve problems and break limits.
+
+CONNECT
+
