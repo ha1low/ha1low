@@ -1,4 +1,4 @@
-<p style="align: center; width: 150%; height: 150%; object-fit: cover;">
+<p <p align="center">>
 <img src="gif.gif">
 </p>
 
