@@ -12,22 +12,22 @@ Currently studying in Moscow polytechnic university and RSSU college. Participat
 ⌍AREAS OF EXPERTISE⌎
 
 <blockquote>
-<strong>➠ Vulnerability Analysis & Exploitation</strong>
+<strong>➠ Vulnerability Analysis & Exploitation <br></strong>
 <strong>⊹ 	Pinpointing security flaws with precision, whether in software, networks, or human systems."</strong>
 </blockquote>
 
 <blockquote>
-<strong>➠ Incident Response & Threat Hunting</strong>
+<strong>➠ Incident Response & Threat Hunting <br></strong>
 <strong>⊹ 	Neutralizing active threats and building frameworks to detect and stop them faster."</strong>
 </blockquote>
 
 <blockquote>
-<strong>➠ System Hardening & Defense</strong>
+<strong>➠ System Hardening & Defense <br></strong>
 <strong>⊹  Architecting defenses to withstand modern adversarial techniques."</strong>
 </blockquote>
 
 <blockquote>
-<strong>➠ Code Development</strong>
+<strong>➠ Code Development <br></strong>
 <strong>⊹ Writing purpose-driven tools in Python, C++, JavaScript, and Bash to solve problems and break limits."</strong>
 </blockquote>
 
