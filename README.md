@@ -11,9 +11,11 @@ Currently studying in Moscow polytechnic university and RSSU college. Participat
 
 ⌍AREAS OF EXPERTISE⌎
 
-➠ Vulnerability Analysis & Exploitation
+<blockquote>
+<p>➠ Vulnerability Analysis & Exploitation</p>
+<strong>⊹ 	Pinpointing security flaws with precision, whether in software, networks, or human systems."</strong>
+</blockquote>
 
-⊹ 	Pinpointing security flaws with precision, whether in software, networks, or human systems.
 
 ➠ Incident Response & Threat Hunting
 
