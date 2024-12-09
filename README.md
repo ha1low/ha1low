@@ -36,6 +36,27 @@ Currently studying in Moscow polytechnic university and RSSU college. Participat
 <strong>⊹ Writing purpose-driven tools in Python, C++, JavaScript, and Bash to solve problems and break limits."</strong>
 </blockquote>
 
+⌍ADDITIONAL INTERESTS⌎
+<blockquote>
+<strong>➠ Music <br></strong>
+<strong>⊹ Finished a 7 year music school program and performed playing the organ and piano at concerts and competitions."</strong>
+</blockquote>
+<blockquote>
+<strong>➠ Art and design <br></strong>
+<strong>⊹ Being involved in art and design professionally is my family's tradition."</strong>
+</blockquote>
+<strong>➠ Tourism <br></strong>
+<strong>⊹ Visited many European countries, which inspired me to get a college degree in tourism."</strong>
+</blockquote>
+<strong>➠ English and languages <br></strong>
+<strong>⊹ Speak English fluently, C1 level and currently studying Mandarin Chinese"</strong>
+</blockquote>
+</blockquote>
+<strong>➠ Marketing and economy <br></strong>
+<strong>⊹ Read many Russian and foreign books, completed courses and visited conferences on the copic of economy."</strong>
+</blockquote>
+
+⌍CONNECT⌎
 
 
 
