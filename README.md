@@ -58,7 +58,7 @@ Currently studying in Moscow polytechnic university and RSSU college. Participat
 <strong>⊹ Read many Russian and foreign books, completed courses and visited conferences on the copic of economy."</strong>
 </blockquote>
 
-⌍CONNECT⌎
+
 
 
 
