@@ -59,6 +59,10 @@ Currently studying in Moscow polytechnic university and RSSU college. Participat
 </blockquote>
 
 ![python](https://github.com/ha1low/ha1low/blob/main/icons/python.svg)
+![python](https://github.com/ha1low/ha1low/blob/main/icons/cpp.sv)
+![python](https://github.com/ha1low/ha1low/blob/main/icons/html.svg)
+![python](https://github.com/ha1low/ha1low/blob/main/icons/css.svg)
+![python](https://github.com/ha1low/ha1low/blob/main/icons/javascript.svg)
 
 
 
