@@ -59,7 +59,7 @@ Currently studying in Moscow polytechnic university and RSSU college. Participat
 </blockquote>
 
 ![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,bootstrap,arduino)
-
+![My Skills](https://github.com/ha1low/ha1low/blob/main/icons?i=python,cpp,git,html,css,javascript,arduino)
 
 
 
