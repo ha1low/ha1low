@@ -58,7 +58,7 @@ Currently studying in Moscow polytechnic university and RSSU college. Participat
 <strong>⊹ Read many Russian and foreign books, completed courses and visited conferences on the copic of economy."</strong>
 </blockquote>
 
-
+![python](https://github.com/ha1low/ha1low/blob/main/icons/python.svg)
 
 
 
