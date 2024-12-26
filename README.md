@@ -8,11 +8,11 @@
 </p>
 
 <p align="center">
-  <a about:blank href="https://www.t.me/blqcklisted"><img width="32px" alt="telegram" title="telegram" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a target="_blank" href="https://www.t.me/blqcklisted"><img width="32px" alt="telegram" title="telegram" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://instagram.com/ha1low"><img width="32px" alt="instagram" title="instagram" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <a target="_blank" href="https://instagram.com/ha1low"><img width="32px" alt="instagram" title="instagram" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://pinterest.com/hallow7k" alt="pinterest"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a target="_blank" href="https://pinterest.com/hallow7k" alt="pinterest"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
