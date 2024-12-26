@@ -8,11 +8,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.t.me/blqcklisted" target="_blank"><img width="32px" alt="telegram" title="telegram" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="https://www.t.me/blqcklisted"><img width="32px" alt="telegram" title="telegram" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a target="_blank" href="https://instagram.com/ha1low"><img width="32px" alt="instagram" title="instagram" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <a href="https://instagram.com/ha1low"><img width="32px" alt="instagram" title="instagram" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a target="_blank" href="https://pinterest.com/hallow7k" alt="pinterest"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://pinterest.com/hallow7k" alt="pinterest"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
@@ -69,8 +69,14 @@ Currently studying in Moscow polytechnic university and RSSU college. Participat
 <strong>⊹ Read many Russian and foreign books, completed courses and visited conferences on the copic of economy."</strong>
 </blockquote>
 
-![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,bootstrap,arduino)
-![My Skills](https://github.com/ha1low/ha1low/blob/main/icons?i=python.svf,cpp.svg,git,html,css,javascript,arduino)
+<p align="center">
+  <a href="https://www.t.me/blqcklisted"><img width="32px" alt="telegram" title="telegram" src="[https://i.imgur.com/qiXu7b2.png](https://github.com/ha1low/ha1low/blob/main/icons/python.svg)"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://instagram.com/ha1low"><img width="32px" alt="instagram" title="instagram" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://pinterest.com/hallow7k" alt="pinterest"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
 
 
 
