@@ -7,15 +7,6 @@
 <img src="gif.gif" width="100%">
 </p>
 
-<p align="center">
-  <a href="https://www.t.me/blqcklisted"><img width="32px" alt="telegram" title="telegram" src="https://imgur.com/02FZ6z3/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://instagram.com/ha1low"><img width="32px" alt="instagram" title="instagram" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://pinterest.com/hallow7k" alt="pinterest"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/o3PA2jm"  ><a href="//imgur.com/a/o3PA2jm">soc</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 <br/>
 
 ⌍ABOUT⌎
@@ -69,13 +60,7 @@ Currently studying in Moscow polytechnic university and RSSU college. Participat
 <strong>⊹ Read many Russian and foreign books, completed courses and visited conferences on the copic of economy."</strong>
 </blockquote>
 
-<p align="center">
-  <img width="32px" alt="py" title="telegram" src="(https://imgur.com/5W3x9gW)"/>
-  <a href="https://instagram.com/ha1low"><img width="32px" alt="instagram" title="instagram" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://pinterest.com/hallow7k" alt="pinterest"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
+
 
 
 
