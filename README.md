@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.telegram.com/blqcklisted"><img width="32px" alt="telegram" title="telegram" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="https://www.t.me/blqcklisted"><img width="32px" alt="telegram" title="telegram" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://instagram.com/ha1low"><img width="32px" alt="instagram" title="instagram" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
