@@ -70,8 +70,7 @@ Currently studying in Moscow polytechnic university and RSSU college. Participat
 </blockquote>
 
 <p align="center">
-  <a href="https://www.t.me/blqcklisted"><img width="32px" alt="telegram" title="telegram" src="[https://i.imgur.com/qiXu7b2.png](https://github.com/ha1low/ha1low/blob/main/icons/python.svg)"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <img width="32px" alt="py" title="telegram" src="(https://imgur.com/5W3x9gW)"/>
   <a href="https://instagram.com/ha1low"><img width="32px" alt="instagram" title="instagram" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://pinterest.com/hallow7k" alt="pinterest"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
