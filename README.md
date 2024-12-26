@@ -15,7 +15,7 @@
   <a href="https://pinterest.com/hallow7k" alt="pinterest"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
-
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/o3PA2jm"  ><a href="//imgur.com/a/o3PA2jm">soc</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 <br/>
 
 ⌍ABOUT⌎
