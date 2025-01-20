@@ -56,7 +56,7 @@ Currently studying in Moscow polytechnic university for Cybersecurity and in RSS
 </blockquote>
 
 ![python](/icons/python.svg)
-![javascript](/icons/javascript.svg)
+![javascript](/icons/js.svg)
 ![css](/icons/css.svg)
 ![html](/icons/html.svg)
 ![python](/icons/python.svg)
