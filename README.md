@@ -55,6 +55,8 @@ Currently studying in Moscow polytechnic university for Cybersecurity and in RSS
 <strong>⊹ Read many Russian and foreign books, completed courses and visited conferences on the copic of economy."</strong>
 </blockquote>
 
+![Alt text](/path/to/python.jpg)
+
 ⌍CONNECT⌎
 <blockquote>
 <strong>⊹ 	email: igumnov.hack@gmail.com <br></strong>
