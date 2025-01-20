@@ -55,7 +55,11 @@ Currently studying in Moscow polytechnic university for Cybersecurity and in RSS
 <strong>⊹ Read many Russian and foreign books, completed courses and visited conferences on the copic of economy."</strong>
 </blockquote>
 
-![python](/icons/python.svg) width="100%"
+![python](/icons/python.svg)
+![javascript](/icons/javascript.svg)
+![css](/icons/css.svg)
+![html](/icons/html.svg)
+![python](/icons/python.svg)
 
 ⌍CONNECT⌎
 <blockquote>
