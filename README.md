@@ -58,6 +58,6 @@ Currently studying in Moscow polytechnic university for Cybersecurity and in RSS
 ⌍CONNECT⌎
 <blockquote>
 <strong>⊹ 	email: igumnov.hack@gmail.com <br></strong>
-<strong>⊹ 	tg: @ha1lowis <br></strong>
+<strong>⊹ 	tg: @ha1low <br></strong>
 <strong>⊹ 	ig: @ha1low <br></strong>
 </blockquote>
