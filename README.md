@@ -56,7 +56,73 @@ Currently studying in Moscow polytechnic university for Cybersecurity and in RSS
 </blockquote>
 
 <p <p align="center">
-<img src="iconspng/python.png" width="10%">
+<img src="iconspng/python.png" width="5%">
+</p>
+<p <p align="center">
+<img src="iconspng/kali.png" width="5%">
+</p>
+<p <p align="center">
+<img src="iconspng/wireshark.png" width="5%">
+</p>
+<p <p align="center">
+<img src="iconspng/docker.png" width="5%">
+</p>
+<p <p align="center">
+<img src="iconspng/cisco-packet-tracer.png" width="5%">
+</p>
+<p <p align="center">
+<img src="iconspng/bash.png" width="5%">
+</p>
+<p <p align="center">
+<img src="iconspng/powershell.png" width="5%">
+</p>
+<p <p align="center">
+<img src="iconspng/javascript-plain.png" width="5%">
+</p>
+<p <p align="center">
+<img src="iconspng/css3.png" width="5%">
+</p>
+<p <p align="center">
+<img src="iconspng/html.png" width="5%">
+</p>
+<p <p align="center">
+<img src="iconspng/bootstrap.png" width="5%">
+</p>
+<p <p align="center">
+<img src="iconspng/word.png" width="5%">
+</p>
+<p <p align="center">
+<img src="iconspng/powerpoint.png" width="5%">
+</p>
+<p <p align="center">
+<img src="iconspng/excel.png" width="5%">
+</p>
+<p <p align="center">
+<img src="iconspng/postgresql.png" width="5%">
+</p>
+<p <p align="center">
+<img src="iconspng/mysql.png" width="5%">
+</p>
+<p <p align="center">
+<img src="iconspng/qt.png" width="5%">
+</p>
+<p <p align="center">
+<img src="iconspng/linux.png" width="5%">
+</p>
+<p <p align="center">
+<img src="iconspng/debian.png" width="5%">
+</p>
+<p <p align="center">
+<img src="iconspng/windows11.png" width="5%">
+</p>
+<p <p align="center">
+<img src="iconspng/figma.png" width="5%">
+</p>
+<p <p align="center">
+<img src="iconspng/canva.png" width="5%">
+</p>
+<p <p align="center">
+<img src="iconspng/arduino.png" width="5%">
 </p>
 
 ⌍CONNECT⌎
