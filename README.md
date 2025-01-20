@@ -56,7 +56,7 @@ Currently studying in Moscow polytechnic university for Cybersecurity and in RSS
 </blockquote>
 
 <p <p align="center">
-<img src="python.png" width="10%">
+<img src="iconspng/python.png" width="10%">
 </p>
 
 ⌍CONNECT⌎
