@@ -57,6 +57,7 @@ Currently studying in Moscow polytechnic university for Cybersecurity and in RSS
 
 <p <p align="center">
 <img src="iconspng/python.png" width="5%">
+<img src="iconspng/kali.png" width="5%">
 </p>
 <p <p align="center">
 <img src="iconspng/kali.png" width="5%">
