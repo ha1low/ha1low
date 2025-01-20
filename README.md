@@ -8,7 +8,7 @@
 ⌍ABOUT⌎
 </p>
 
-I am Matvei. I specialize in cybersecurity operations, combining offensive and defensive methodologies to expose weaknesses and engineer resilience. My work focuses on real-world application: if it doesn’t work under pressure, it’s irrelevant.
+I am Matvei. I specialize in cybersecurity operations, combining offensive and defensive methodologies to expose weaknesses and engineer resilience. Social engineering, prevention of attacks, protection of computer systems and information infrastructure is what I'm best at.  My work focuses on real-world application: if it doesn’t work under pressure, it’s irrelevant.
 
 Currently studying in Moscow polytechnic university for Cybersecurity and in RSSU college for Tourism. Participating in various events hosted by top universities of Moscow.
 
