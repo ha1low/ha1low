@@ -57,6 +57,7 @@ Currently studying in Moscow polytechnic university for Cybersecurity and in RSS
 
 <p <p align="center">
   <img src="iconspng/python.png" width="5%">
+  <img src="iconspng/cpp.png" width="5%">
   <img src="iconspng/kali.png" width="5%">
   <img src="iconspng/wireshark.png" width="5%">
   <img src="iconspng/docker.png" width="5%">
