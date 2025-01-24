@@ -58,25 +58,39 @@ I am Matvei. I specialize in cybersecurity operations, combining offensive and d
 ⌍ADDITIONAL INTERESTS⌎
 </p>
 
+➠ Music <br>
+⊹ Finished a 7 year music school program and performed playing the organ and piano at concerts and competitions.
 <blockquote>
-<strong>➠ Music <br></strong>
-<strong>⊹ Finished a 7 year music school program and performed playing the organ and piano at concerts and competitions.</strong>
+<strong>➠ Музыка <br></strong>
+<strong>⊹ Окончил 7-летнюю музыкальную школу и выступал с концертами и конкурсами по игре на органе и фортепиано.</strong>
 </blockquote>
+
+➠ Art and design <br>
+⊹ Being involved in art and design professionally is my family's tradition.
 <blockquote>
-<strong>➠ Art and design <br></strong>
-<strong>⊹ Being involved in art and design professionally is my family's tradition.</strong>
+<strong>➠ Искусство и дизайн <br></strong>
+<strong>⊹ Профессиональное занятие искусством и дизайном - это традиция моей семьи.</strong>
 </blockquote>
+
+➠ Tourism <br>
+⊹ Visited many European countries, which inspired me to get a college degree in tourism.
 <blockquote>
-<strong>➠ Tourism <br></strong>
-<strong>⊹ Visited many European countries, which inspired me to get a college degree in tourism.</strong>
+<strong>➠ Туризм <br></strong>
+<strong>⊹ Побывал во многих европейских странах, что вдохновило меня на получение образования в области туризма.</strong>
 </blockquote>
+
+➠ English and languages <br>
+⊹ Speak English fluently (C1 level) and currently studying Mandarin Chinese.
 <blockquote>
-<strong>➠ English and languages <br></strong>
-<strong>⊹ Speak English fluently (C1 level) and currently studying Mandarin Chinese.</strong>
+<strong>➠ Английский и другие языки <br></strong>
+<strong>⊹ Свободно говорю по-английски (уровень С1) и в настоящее время изучаю китайский.</strong>
 </blockquote>
+
+➠ Marketing and economy <br>
+⊹ Read many Russian and foreign books, completed courses and visited conferences on the copic of economy.
 <blockquote>
-<strong>➠ Marketing and economy <br></strong>
-<strong>⊹ Read many Russian and foreign books, completed courses and visited conferences on the copic of economy.</strong>
+<strong>➠ Маркетинг и экономика <br></strong>
+<strong>⊹ Прочитал много российских и зарубежных книг, проходил курсы и посещал конференции на тему экономики.</strong>
 </blockquote>
 
 <br/>
