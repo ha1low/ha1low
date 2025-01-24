@@ -14,10 +14,20 @@ Currently studying in Moscow polytechnic university for Cybersecurity and in RSS
 
 <br/>
 
+<blockquote>
+<strong>Меня зовут Матвей. Я специализируюсь на операциях по кибербезопасности, сочетая наступательные и оборонительные методы для выявления слабых мест и повышения устойчивости. Социальная инженерия, предотвращение атак, защита компьютерных систем и информационной инфраструктуры - это то, в чем я разбираюсь лучше всего. Моя работа сосредоточена на применении в реальных условиях: если это не работает под давлением, это неактуально.
+
+В настоящее время учусь в Московском политехническом университете по специальности "Информационная безопасность" и в колледже РГСУ по специальнольности "Туризм". Участвую в различных мероприятиях, проводимых ведущими университетами Москвы.</strong>
+</blockquote>
+
+<br>
+
 <p <p align="center">
 ⌍AREAS OF EXPERTISE⌎
 </p>
 
+➠ Vulnerability Analysis & Exploitation 
+⊹ 	Pinpointing security flaws with precision, whether in software, networks, or human systems.
 <blockquote>
 <strong>➠ Vulnerability Analysis & Exploitation <br></strong>
 <strong>⊹ 	Pinpointing security flaws with precision, whether in software, networks, or human systems.</strong>
