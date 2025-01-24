@@ -8,13 +8,13 @@
 ⌍ABOUT⌎
 </p>
 
-I am Matvei. I specialize in cybersecurity operations, combining offensive and defensive methodologies to expose weaknesses and engineer resilience. Social engineering, prevention of attacks, protection of computer systems and information infrastructure is what I'm best at.  My work focuses on real-world application: if it doesn’t work under pressure, it’s irrelevant. <br/> <br/> Currently studying in Moscow polytechnic university for Cybersecurity and in RSSU college for Tourism. Participating in various events hosted by top universities of Moscow.
+I am Matvei. I specialize in cybersecurity operations, combining offensive and defensive methodologies to expose weaknesses and engineer resilience. Social engineering, prevention of attacks, protection of computer systems and information infrastructure is what I'm best at.  My work focuses on real-world application: if it doesn’t work under pressure, it’s irrelevant. <br> <br> Currently studying in Moscow polytechnic university for Cybersecurity and in RSSU college for Tourism. Participating in various events hosted by top universities of Moscow.
 
-<br/>
+<br>
 
 <blockquote>
 <strong>Меня зовут Матвей. Я специализируюсь на операциях по кибербезопасности, сочетая наступательные и оборонительные методы для выявления слабых мест и повышения устойчивости. Социальная инженерия, предотвращение атак, защита компьютерных систем и информационной инфраструктуры - это то, в чем я разбираюсь лучше всего. Моя работа сосредоточена на применении в реальных условиях: если это не работает под давлением, это неактуально.
-<br/><br/>
+<br><br>
 В настоящее время учусь в Московском политехническом университете по специальности "Информационная безопасность" и в колледже РГСУ по специальнольности "Туризм". Участвую в различных мероприятиях, проводимых ведущими университетами Москвы.</strong>
 </blockquote>
 
@@ -27,26 +27,29 @@ I am Matvei. I specialize in cybersecurity operations, combining offensive and d
 ➠ Vulnerability Analysis & Exploitation <br/>
 ⊹ 	Pinpointing security flaws with precision, whether in software, networks, or human systems.
 <blockquote>
-<strong>➠ Vulnerability Analysis & Exploitation <br></strong>
-<strong>⊹ 	Pinpointing security flaws with precision, whether in software, networks, or human systems.</strong>
+<strong>➠ Анализ уязвимостей и их использование <br></strong>
+<strong>⊹ 	Точное выявление недостатков в системе безопасности, будь то в программном обеспечении, сетях или человеческих системах.</strong>
 </blockquote>
 
 ➠ Incident Response & Threat Hunting <br>
 ⊹ 	Neutralizing active threats and building frameworks to detect and stop them faster.
 <blockquote>
-<strong>➠ Incident Response & Threat Hunting <br></strong>
-<strong>⊹ 	Neutralizing active threats and building frameworks to detect and stop them faster.</strong>
-</blockquote>
-➠ System Hardening & Defense <br/>
-⊹  Architecting defenses to withstand modern adversarial techniques.
-<blockquote>
-<strong>➠ System Hardening & Defense <br></strong>
-<strong>⊹  Architecting defenses to withstand modern adversarial techniques.</strong>
+<strong>➠ Реагирование на инциденты и поиск угроз <br></strong>
+<strong>⊹ 	Нейтрализация активных угроз и создание систем для их более быстрого обнаружения и пресечения.</strong>
 </blockquote>
 
+➠ System Hardening & Defense <br>
+⊹  Architecting defenses to withstand modern adversarial techniques.
 <blockquote>
-<strong>➠ Code Development <br></strong>
-<strong>⊹ Writing purpose-driven tools in Python, C++, JavaScript, and Bash to solve problems and break limits.</strong>
+<strong>➠ Укрепление и защита системы <br></strong>
+<strong>⊹  Создание системы защиты, позволяющей противостоять современным противоборствующим методам.</strong>
+</blockquote>
+
+➠ Code Development <br>
+⊹ Writing purpose-driven tools in Python, C++, JavaScript, and Bash to solve problems and break limits.
+<blockquote>
+<strong>➠ Разработка кода <br></strong>
+<strong>⊹ Написание специализированных инструментов на Python, C++, JavaScript и Bash для решения проблем и преодоления ограничений.</strong>
 </blockquote>
 
 <br/>
