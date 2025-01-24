@@ -31,11 +31,14 @@ I am Matvei. I specialize in cybersecurity operations, combining offensive and d
 <strong>⊹ 	Pinpointing security flaws with precision, whether in software, networks, or human systems.</strong>
 </blockquote>
 
+➠ Incident Response & Threat Hunting <br>
+⊹ 	Neutralizing active threats and building frameworks to detect and stop them faster.
 <blockquote>
 <strong>➠ Incident Response & Threat Hunting <br></strong>
 <strong>⊹ 	Neutralizing active threats and building frameworks to detect and stop them faster.</strong>
 </blockquote>
-
+➠ System Hardening & Defense <br/>
+⊹  Architecting defenses to withstand modern adversarial techniques.
 <blockquote>
 <strong>➠ System Hardening & Defense <br></strong>
 <strong>⊹  Architecting defenses to withstand modern adversarial techniques.</strong>
