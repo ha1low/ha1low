@@ -24,7 +24,7 @@ I am Matvei. I specialize in cybersecurity operations, combining offensive and d
 ⌍AREAS OF EXPERTISE⌎
 </p>
 
-➠ Vulnerability Analysis & Exploitation 
+➠ Vulnerability Analysis & Exploitation <br/>
 ⊹ 	Pinpointing security flaws with precision, whether in software, networks, or human systems.
 <blockquote>
 <strong>➠ Vulnerability Analysis & Exploitation <br></strong>
