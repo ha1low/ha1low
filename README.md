@@ -8,13 +8,13 @@
 ⌍ABOUT⌎
 </p>
 
-I am Matvei. I specialize in cybersecurity operations, combining offensive and defensive methodologies to expose weaknesses and engineer resilience. Social engineering, prevention of attacks, protection of computer systems and information infrastructure is what I'm best at.  My work focuses on real-world application: if it doesn’t work under pressure, it’s irrelevant. <br/> Currently studying in Moscow polytechnic university for Cybersecurity and in RSSU college for Tourism. Participating in various events hosted by top universities of Moscow.
+I am Matvei. I specialize in cybersecurity operations, combining offensive and defensive methodologies to expose weaknesses and engineer resilience. Social engineering, prevention of attacks, protection of computer systems and information infrastructure is what I'm best at.  My work focuses on real-world application: if it doesn’t work under pressure, it’s irrelevant. <br/> <br/> Currently studying in Moscow polytechnic university for Cybersecurity and in RSSU college for Tourism. Participating in various events hosted by top universities of Moscow.
 
 <br/>
 
 <blockquote>
-<strong>Меня зовут Матвей. Я специализируюсь на операциях по кибербезопасности, сочетая наступательные и оборонительные методы для выявления слабых мест и повышения устойчивости. Социальная инженерия, предотвращение атак, защита компьютерных систем и информационной инфраструктуры - это то, в чем я разбираюсь лучше всего. <br/> Моя работа сосредоточена на применении в реальных условиях: если это не работает под давлением, это неактуально.
-
+<strong>Меня зовут Матвей. Я специализируюсь на операциях по кибербезопасности, сочетая наступательные и оборонительные методы для выявления слабых мест и повышения устойчивости. Социальная инженерия, предотвращение атак, защита компьютерных систем и информационной инфраструктуры - это то, в чем я разбираюсь лучше всего. Моя работа сосредоточена на применении в реальных условиях: если это не работает под давлением, это неактуально.
+<br/><br/>
 В настоящее время учусь в Московском политехническом университете по специальности "Информационная безопасность" и в колледже РГСУ по специальнольности "Туризм". Участвую в различных мероприятиях, проводимых ведущими университетами Москвы.</strong>
 </blockquote>
 
