@@ -1,5 +1,5 @@
 <p <p align="center">
-<img src="gif.gif" width="100%" height="70%">
+<img src="gif.gif" width="100%" height="50%">
 </p>
 
 <br/>
@@ -59,10 +59,10 @@ I am Matvei. I specialize in cybersecurity operations, combining offensive and d
 </p>
 
 ➠ Music <br>
-⊹ Finished a 7 year music school program and performed playing the organ and piano at concerts and competitions.
+⊹ Finished a 5 year music school program and performed playing the organ and piano at concerts and competitions.
 <blockquote>
 <strong>➠ Музыка <br></strong>
-<strong>⊹ Окончил 7-летнюю музыкальную школу и выступал с концертами и конкурсами по игре на органе и фортепиано.</strong>
+<strong>⊹ Окончил 5-летнюю музыкальную школу и выступал с концертами и конкурсами по игре на органе и фортепиано.</strong>
 </blockquote>
 
 ➠ Art and design <br>
@@ -100,31 +100,31 @@ I am Matvei. I specialize in cybersecurity operations, combining offensive and d
 </p>
 
 <p <p align="center">
-  <img src="iconspng/python.png" width="7%">
-  <img src="iconspng/cpp.png" width="7%">
-  <img src="iconspng/kali.png" width="7%">
-  <img src="iconspng/wireshark.png" width="7%">
-  <img src="iconspng/docker.png" width="7%">
-  <img src="iconspng/cisco-packet-tracer.png" width="7%">
-  <img src="iconspng/git.png" width="7%">
-  <img src="iconspng/bash.png" width="7%">
-  <img src="iconspng/powershell.png" width="7%">
-  <img src="iconspng/javascript-plain.png" width="7%">
-  <img src="iconspng/css3.png" width="7%">
-  <img src="iconspng/html.png" width="7%">
-  <img src="iconspng/bootstrap.png" width="7%">
-  <img src="iconspng/word.png" width="7%">
-  <img src="iconspng/powerpoint.png" width="7%">
-  <img src="iconspng/excel.png" width="7%">
-  <img src="iconspng/postgresql.png" width="7%">
-  <img src="iconspng/mysql.png" width="7%">
-  <img src="iconspng/qt.png" width="7%">
-  <img src="iconspng/linux.png" width="7%">
-  <img src="iconspng/debian.png" width="7%">
-  <img src="iconspng/windows11.png" width="7%">
-  <img src="iconspng/figma.png" width="7%">
-  <img src="iconspng/canva.png" width="7%">
-  <img src="iconspng/arduino.png" width="7%">
+  <img src="iconspng/python.png" width="5%">
+  <img src="iconspng/cpp.png" width="5%">
+  <img src="iconspng/kali.png" width="5%">
+  <img src="iconspng/wireshark.png" width="5%">
+  <img src="iconspng/docker.png" width="5%">
+  <img src="iconspng/cisco-packet-tracer.png" width="5%">
+  <img src="iconspng/git.png" width="5%">
+  <img src="iconspng/bash.png" width="5%">
+  <img src="iconspng/powershell.png" width="5%">
+  <img src="iconspng/javascript-plain.png" width="5%">
+  <img src="iconspng/css3.png" width="5%">
+  <img src="iconspng/html.png" width="5%">
+  <img src="iconspng/bootstrap.png" width="5%">
+  <img src="iconspng/word.png" width="5%">
+  <img src="iconspng/powerpoint.png" width="5%">
+  <img src="iconspng/excel.png" width="5%">
+  <img src="iconspng/postgresql.png" width="5%">
+  <img src="iconspng/mysql.png" width="5%">
+  <img src="iconspng/qt.png" width="5%">
+  <img src="iconspng/linux.png" width="5%">
+  <img src="iconspng/debian.png" width="5%">
+  <img src="iconspng/windows11.png" width="5%">
+  <img src="iconspng/figma.png" width="5%">
+  <img src="iconspng/canva.png" width="5%">
+  <img src="iconspng/arduino.png" width="5%">
 </p>
 
 <br/>
