@@ -100,7 +100,7 @@ I am Matvei. I specialize in cybersecurity operations, combining offensive and d
 </p>
 
 <p <p align="center">
-  <img src="iconspng/python.png" width="5%">
+  <img src="iconspng/python.png" width="5%" margin-right="10px">
   <img src="iconspng/cpp.png" width="5%">
   <img src="iconspng/kali.png" width="5%">
   <img src="iconspng/wireshark.png" width="5%">
