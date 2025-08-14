@@ -5,44 +5,44 @@
 <br/>
 
 <p <p align="center">
-⌍ABOUT⌎
+⌍About⌎
 </p>
 
-I am Matvei. I specialize in cybersecurity operations, combining offensive and defensive methodologies to expose weaknesses and engineer resilience. Social engineering, prevention of attacks, protection of computer systems and information infrastructure is what I'm best at.  My work focuses on real-world application: if it doesn’t work under pressure, it’s irrelevant. <br> <br> Currently studying in Moscow polytechnic university for Cybersecurity and in RSSU college for Tourism. Participating in various events hosted by top universities of Moscow.
+I specialize in cybersec operations, aimed to expose weaknesses and engineer resilience. Prevention of attacks, protection of computer systems and information infrastructure, creation of a full defense systems, including protection from modern AI attacks. <br> <br> Currently studying in Moscow polytechnic university for Cybersecurity and in RSSU college for Tourism. Participating in various events hosted by top universities of Moscow.
 
 <br>
 
 <blockquote>
-<strong>Меня зовут Матвей. Я специализируюсь на операциях по кибербезопасности, сочетая наступательные и оборонительные методы для выявления слабых мест и повышения устойчивости. Социальная инженерия, предотвращение атак, защита компьютерных систем и информационной инфраструктуры - это то, в чем я разбираюсь лучше всего. Моя работа сосредоточена на применении в реальных условиях: если это не работает под давлением, это неактуально.
+<strong>Специализируюсь кибербез операциях по выявлению слабых мест и повышения устойчивости. Предотвращение атак, защита компьютерных систем и информационной инфраструктуры, создание полной системы защиты, включая защиту от современных ИИ атак.
 <br><br>
-В настоящее время учусь в Московском политехническом университете по специальности "Информационная безопасность" и в колледже РГСУ по специальнольности "Туризм". Участвую в различных мероприятиях, проводимых ведущими университетами Москвы.</strong>
+Учусь в Московском политехе на 3 курсе по специальности "Информационная безопасность". Окончил колледж РГСУ по специальности "Туризм". Участвую мероприятиях, проводимых ведущими университетами Москвы.</strong>
 </blockquote>
 
 <br>
 
 <p <p align="center">
-⌍AREAS OF EXPERTISE⌎
+⌍Areas⌎
 </p>
 
 ➠ Vulnerability Analysis & Exploitation <br/>
 ⊹ 	Pinpointing security flaws with precision, whether in software, networks, or human systems.
 <blockquote>
 <strong>➠ Анализ уязвимостей и их использование <br></strong>
-<strong>⊹ 	Точное выявление недостатков в системе безопасности, будь то в программном обеспечении, сетях или человеческих системах.</strong>
+<strong>⊹ 	Выявление недостатков в системе безопасности, будь то в программном обеспечении, сетях или человеческих системах.</strong>
 </blockquote>
 
 ➠ Incident Response & Threat Hunting <br>
-⊹ 	Neutralizing active threats and building frameworks to detect and stop them faster.
+⊹ 	Neutralizing active threats and building AI frameworks to detect and stop them faster.
 <blockquote>
 <strong>➠ Реагирование на инциденты и поиск угроз <br></strong>
-<strong>⊹ 	Нейтрализация активных угроз и создание систем для их более быстрого обнаружения и пресечения.</strong>
+<strong>⊹ 	Нейтрализация активных угроз и создание ИИ систем для их более быстрого обнаружения и пресечения.</strong>
 </blockquote>
 
-➠ System Hardening & Defense <br>
-⊹  Architecting defenses to withstand modern adversarial techniques.
+➠ System Hardening <br>
+⊹  Architecting defense systems for network and servers
 <blockquote>
 <strong>➠ Укрепление и защита системы <br></strong>
-<strong>⊹  Создание системы защиты, позволяющей противостоять современным противоборствующим методам.</strong>
+<strong>⊹  Создание системы защиты для сети и серверов</strong>
 </blockquote>
 
 ➠ Code Development <br>
@@ -55,48 +55,7 @@ I am Matvei. I specialize in cybersecurity operations, combining offensive and d
 <br/>
 
 <p <p align="center">
-⌍ADDITIONAL INTERESTS⌎
-</p>
-
-➠ Music <br>
-⊹ Finished a 5 year music school program and performed playing the organ and piano at concerts and competitions.
-<blockquote>
-<strong>➠ Музыка <br></strong>
-<strong>⊹ Окончил 5-летнюю музыкальную школу и выступал с концертами и конкурсами по игре на органе и фортепиано.</strong>
-</blockquote>
-
-➠ Art and design <br>
-⊹ Being involved in art and design professionally is my family's tradition.
-<blockquote>
-<strong>➠ Искусство и дизайн <br></strong>
-<strong>⊹ Профессиональное занятие искусством и дизайном - это традиция моей семьи.</strong>
-</blockquote>
-
-➠ Tourism <br>
-⊹ Visited many European countries, which inspired me to get a college degree in tourism.
-<blockquote>
-<strong>➠ Туризм <br></strong>
-<strong>⊹ Побывал во многих европейских странах, что вдохновило меня на получение образования в области туризма.</strong>
-</blockquote>
-
-➠ English and languages <br>
-⊹ Speak English fluently (C1 level) and currently studying Mandarin Chinese.
-<blockquote>
-<strong>➠ Английский и другие языки <br></strong>
-<strong>⊹ Свободно говорю по-английски (уровень С1) и в настоящее время изучаю китайский.</strong>
-</blockquote>
-
-➠ Marketing and economy <br>
-⊹ Read many Russian and foreign books, completed courses and visited conferences on the copic of economy.
-<blockquote>
-<strong>➠ Маркетинг и экономика <br></strong>
-<strong>⊹ Прочитал много российских и зарубежных книг, проходил курсы и посещал конференции на тему экономики.</strong>
-</blockquote>
-
-<br/>
-
-<p <p align="center">
-⌍HARD SKILLS⌎
+⌍Hard Skills⌎
 </p>
 
 <p <p align="center">
@@ -130,11 +89,10 @@ I am Matvei. I specialize in cybersecurity operations, combining offensive and d
 <br/>
 
 <p <p align="center">
-⌍CONNECT⌎
+⌍Connect⌎
 </p>
 
 <blockquote>
 <strong>⊹ 	email: igumnov.hack@gmail.com <br></strong>
-<strong>⊹ 	tg: @ha1low <br></strong>
-<strong>⊹ 	ig: @igumn0v <br></strong>
+<strong>⊹ 	tg: @igumn0v <br></strong>
 </blockquote>
