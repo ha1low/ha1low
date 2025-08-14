@@ -1,10 +1,4 @@
 <p <p align="center">
-<img src="gif.gif" width="100%" height="50%">
-</p>
-
-<br/>
-
-<p <p align="center">
 ⌍About⌎
 </p>
 
